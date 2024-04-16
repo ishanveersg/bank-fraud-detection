@@ -1,5 +1,5 @@
 # Bank fraud dectection
-The Bank Fraud (BAF) dataset suite, introduced at NeurIPS 2022, comprises 6 synthetic datasets for bank fraud detection. It's designed to be a comprehensive, realistic test bed with over 32 attributes. Our goal is to leverage this data to visualize trends and develop a machine learning model to predict bank fraud transactions.
+The [Bank Fraud (BAF) dataset suite](https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022), introduced at NeurIPS 2022, comprises 6 synthetic datasets for bank fraud detection. It's designed to be a comprehensive, realistic test bed with over 32 attributes. Our goal is to leverage this data to visualize trends and develop a machine learning model to predict bank fraud transactions.
 
 ## Motivation
 We wanted to select a dataset with enough relevant detail to allow
